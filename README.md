@@ -106,9 +106,9 @@ The report has **5 interactive pages** with slicers on every page, so any segmen
 
 ## 🙋 About Me
 
-**[Your Name]**
+**[PARTH BORAD]**
 Data Analyst | Power BI | Data Storytelling
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 📧 your.email@example.com
+🔗 (https://www.linkedin.com/in/parth-borad-4a4b1b321/)· 📧 pborad884@gmail.com
 
 ---
 
